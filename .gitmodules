@@ -1,0 +1,3 @@
+[submodule "Alsara-frontend"]
+	path = Alsara-frontend
+	url = https://github.com/juliosam/Alsara-frontend
